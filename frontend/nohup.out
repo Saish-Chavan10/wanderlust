@@ -1,0 +1,45 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.0  ready in 313 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://172.31.0.123:5174/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.0  ready in 684 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.0.123:5173/
+7:11:22 AM [vite] .env.sample changed, restarting server...
+7:11:23 AM [vite] server restarted.
+7:11:52 AM [vite] .env.local changed, restarting server...
+7:11:52 AM [vite] server restarted.
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.0  ready in 351 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://172.31.0.123:5174/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+npm ERR! Missing script: "stop"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2024-06-26T07_22_49_067Z-debug-0.log
